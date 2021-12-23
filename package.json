@@ -1,0 +1,9 @@
+{
+  "name": "graphql.wtf-schema-loading",
+  "private": true,
+  "dependencies": {
+    "@graphql-tools/graphql-file-loader": "7.3.3",
+    "@graphql-tools/load": "7.5.0",
+    "graphql": "16.2.0"
+  }
+}
